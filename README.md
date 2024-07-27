@@ -1,6 +1,11 @@
 # Telegram Referral Bot
 
 A Telegram bot that integrates with a MySQL database to handle user registrations and track referral counts. The bot provides users with a custom keyboard and allows them to manage their referrals and registrations.
+## Video Tutorial
+
+Check out this video tutorial on how to set up and use the Telegram Referral Bot:
+
+[![Watch the video](https://img.youtube.com/vi/tSQG9q6UeBw/maxresdefault.jpg)](https://youtu.be/tSQG9q6UeBw)
 
 ## Features
 
